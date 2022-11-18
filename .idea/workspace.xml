@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9450143b-b403-4782-84fa-db58c072af3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/APIGateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/src/main/java/miu/edu/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateway/src/test/java/miu/edu/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/src/main/java/miu/edu/bookcommandservice/BookCommandServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookCommandService/src/test/java/miu/edu/bookcommandservice/BookCommandServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/src/main/java/miu/edu/bookqueryservice/BookQueryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookQueryService/src/test/java/miu/edu/bookqueryservice/BookQueryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/java/miu/edu/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/src/test/java/miu/edu/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/src/main/java/miu/edu/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaServer/src/test/java/miu/edu/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/src/main/java/miu/edu/reviewservice/ReviewServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewService/src/test/java/miu/edu/reviewservice/ReviewServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Client/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/main/java/miu/edu/client/ClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/main/java/miu/edu/client/ClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/test/java/miu/edu/client/ClientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/test/java/miu/edu/client/ClientApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Client" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2HgoUJxumCM485dp3iTlBCn4iS7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "/Users/michaelworku/Dev/MIU/SA/Assignments/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="APIGateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="miu.edu.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCommandServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BookCommandService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="miu.edu.bookcommandservice.BookCommandServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConfigServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="miu.edu.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="miu.edu.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ReviewService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="miu.edu.reviewservice.ReviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9450143b-b403-4782-84fa-db58c072af3a" name="Changes" comment="" />
+      <created>1668716101694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668716101694</updated>
+      <workItem from="1668716102992" duration="1136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
